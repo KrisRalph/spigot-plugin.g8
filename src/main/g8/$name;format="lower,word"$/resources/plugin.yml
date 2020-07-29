@@ -1,0 +1,7 @@
+name: $name$
+version: 0.1
+main: $name;format="Camel"$.Plugin
+description: Scala plugin template
+authors: [ Placeholder ]
+website: 
+api-version: 1.16 # you may need to update this if you change jar
